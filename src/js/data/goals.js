@@ -761,6 +761,105 @@ const goals = [
 		"image": "assets/images/focus_generic_commonwealth_build_infantry.png"
 	},
 
+	{
+		"name": "GFX_all_resource",
+		"image": "assets/images/All_resource.png",
+		"tags": ["Kaiserreich", "KR"],
+	},
+
+	{
+		"name": "GFX_goal_steel",
+		"image": "assets/images/Steel.png",
+		"tags": ["Kaiserreich", "KR"],
+	},
+
+	{
+		"name": "GFX_goal_aluminium",
+		"image": "assets/images/Aluminium.png",
+		"tags": ["Kaiserreich", "KR"],
+	},
+
+	{
+		"name": "GFX_goal_chromium",
+		"image": "assets/images/Chromium.png",
+		"tags": ["Kaiserreich", "KR"],
+	},
+
+	{
+		"name": "GFX_goal_oil",
+		"image": "assets/images/Oil.png",
+		"tags": ["Kaiserreich", "KR"],
+	},
+
+	{
+		"name": "GFX_goal_rubber",
+		"image": "assets/images/Rubber.png",
+		"tags": ["Kaiserreich", "KR"],
+	},
+
+	{
+		"name": "GFX_goal_tungsten",
+		"image": "assets/images/Tungsten.png",
+		"tags": ["Kaiserreich", "KR"],
+	},
+
+	{
+		"name": "GFX_goal_monarchism",
+		"image": "assets/images/goal_monarchism.png",
+		"tags": ["Kaiserreich", "KR"],
+	},
+
+	{
+		"name": "GFX_goal_monarchism_black",
+		"image": "assets/images/goal_monarchism_3.png",
+		"tags": ["Kaiserreich", "KR"],
+	},
+
+	{
+		"name": "GFX_goal_anarcho_monarchism",
+		"image": "assets/images/anarcho_monarchism.png",
+		"tags": ["Kaiserreich", "KR"],
+	},
+
+	{
+		"name": "GFX_goal_autonomism",
+		"image": "assets/images/goal_autonomism.png",
+		"tags": ["Kaiserreich", "KR"],
+	},
+	{
+		"name": "GFX_goal_government_icon",
+		"image": "assets/images/goal_government_icon.png",
+		"tags": ["Kaiserreich", "KR"],
+	},
+
+	{
+		"name": "GFX_goal_conscription",
+		"image": "assets/images/goal_conscription.png",
+		"tags": ["Kaiserreich", "KR"],
+	},
+	{
+		"name": "GFX_goal_economic_control",
+		"image": "assets/images/goal_economic_control.png",
+		"tags": ["Kaiserreich", "KR"],
+	},
+	{
+		"name": "GFX_goal_state_economy",
+		"image": "assets/images/goal_state_economy.png",
+		"tags": ["Kaiserreich", "KR"],
+	},
+
+	{
+		"name": "GFX_goal_women_industry",
+		"image": "assets/images/goal_women_industry.png",
+		"tags": ["Kaiserreich", "KR"],
+	},
+
+	{
+		"name": "GFX_IRE_Zinc",
+		"image": "assets/images/Zinc.png",
+		"tags": ["Kaiserreich", "KR"],
+	},
+
 ]
 
 export default goals;
