@@ -1,6 +1,7 @@
 <template>
   <div class="Icons">
-    <icon :name="goal.name" :image="goal.image" v-for="goal in goals"></icon>
+    <input type="text" v-model="searchQuery" placeholder="E.g. crown, navy, resource" class="Icons__search">
+    <icon :name="goal.name" :image="goal.image" v-for="goal in filteredGoals"></icon>
   </div>
 </template>
 
@@ -24,8 +25,20 @@
 
     data() {
       return {
+        searchQuery: '',
+
         goals
       }
     },
+
+    computed: {
+      filteredGoals: function() {
+        let self = this;
+        return self.goals.filter(function (goal) {
+          let searchRegex = new RegExp(self.searchQuery, 'i')
+          return searchRegex.test(goal.tags)
+        })
+      }
+    }
   }
 </script>
