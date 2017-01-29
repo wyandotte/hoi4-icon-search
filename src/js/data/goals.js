@@ -878,6 +878,12 @@ const goals = [
 	},
 
 	{
+		"name": "GFX_goal_authoritarian",
+		"image": "assets/images/goals/goal_authoritarian.png",
+		"tags": ["Kaiserreich", "KR", "fist", "authoritarian"]
+	},
+
+	{
 		"name": "GFX_goal_monarchism",
 		"image": "assets/images/goals/goal_monarchism.png",
 		"tags": ["Kaiserreich", "KR", "crown"],
