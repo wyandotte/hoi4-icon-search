@@ -896,10 +896,41 @@ const goals = [
 	},
 
 	{
-		"name": "GFX_goal_autonomism",
-		"image": "assets/images/goals/goal_autonomism.png",
+		"name": "GFX_goal_anarcho_communism",
+		"image": "assets/images/goals/goal_anarcho_communism.png",
 		"tags": ["Kaiserreich", "KR", "communist", "syndicalist"],
 	},
+
+	{
+		"name": "GFX_goal_syndicalism",
+		"image": "assets/images/goals/goal_syndicalism.png",
+		"tags": ["Kaiserreich", "KR", "communist", "syndicalist"],
+	},
+
+	{
+		"name": "GFX_goal_autonomism",
+		"image": "assets/images/goals/goal_autonomism.png",
+		"tags": ["Kaiserreich", "KR", "communist", "syndicalist", "radical socialist"],
+	},
+
+	{
+		"name": "GFX_goal_syndicalist_industry",
+		"image": "assets/images/goals/goal_syndicalist_industry.png",
+		"tags": ["Kaiserreich", "KR", "communist", "syndicalist"],
+	},
+
+	{
+		"name": "GFX_goal_totalism",
+		"image": "assets/images/goals/goal_totalism.png",
+		"tags": ["Kaiserreich", "KR", "communist", "syndicalist", "totalist"],
+	},
+
+	{
+		"name": "GFX_goal_ban_unions",
+		"image": "assets/images/goals/UK_ban_unions.png",
+		"tags": ["Kaiserreich", "KR", "communist", "syndicalist"],
+	},
+
 	{
 		"name": "GFX_goal_government_icon",
 		"image": "assets/images/goals/goal_government_icon.png",
@@ -911,6 +942,7 @@ const goals = [
 		"image": "assets/images/goals/goal_conscription.png",
 		"tags": ["Kaiserreich", "KR", "soldiers"],
 	},
+
 	{
 		"name": "GFX_goal_economic_control",
 		"image": "assets/images/goals/goal_economic_control.png",
@@ -932,6 +964,12 @@ const goals = [
 		"name": "GFX_IRE_Zinc",
 		"image": "assets/images/goals/Zinc.png",
 		"tags": ["Kaiserreich", "KR", "resource", "production", "construction"],
+	},
+
+	{
+		"name": "GFX_RUS_Markov_plan",
+		"image": "assets/images/goals/RUS_Markov_plan.png",
+		"tags": ["Kaiserreich", "KR", "tank", "panzer"],
 	},
 
 ]
