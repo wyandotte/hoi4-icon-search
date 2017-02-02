@@ -973,9 +973,15 @@ const goals = [
 	},
 
 	{
-		"name": "GFX_RUS_Markov_plan",
+		"name": "GFX_goal_RUS_Markov_plan",
 		"image": "assets/images/goals/RUS_Markov_plan.png",
 		"tags": ["Kaiserreich", "KR", "tank", "panzer"],
+	},
+
+	{
+		"name": "GFX_goal_RUS_Wrangel_plan",
+		"image": "assets/images/goals/RUS_Wrangel_plan.png",
+		"tags": ["Kaiserreich", "KR", "fist", "artillery"],
 	},
 
 ]
