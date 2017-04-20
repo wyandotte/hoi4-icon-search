@@ -984,6 +984,24 @@ const goals = [
 		"tags": ["Kaiserreich", "KR", "fist", "artillery"],
 	},
 
+	{
+		"name": "GFX_goal_zhang_rifle",
+		"image": "assets/images/goals/GFX_goal_zhang_rifle.png",
+		"tags": ["Kaiserreich", "KR", "china", "rifle"],
+	},
+
+	{
+		"name": "GFX_goal_arisaka",
+		"image": "assets/images/goals/GFX_goal_arisaka.png",
+		"tags": ["Kaiserreich", "KR", "japan", "rifle"],
+	},
+
+	{
+		"name": "GFX_goal_beiyang_star",
+		"image": "assets/images/goals/GFX_goal_beiyang_star.png",
+		"tags": ["Kaiserreich", "KR", "china", "star"],
+	},
+
 ]
 
 export default goals;
