@@ -591,6 +591,97 @@ const ideas = [
     "image": "assets/images/ideas/quenched_militarism.png",
     "tags": ["Kaiserreich", "KR"],
   },
+
+  {
+    "name": "idea_generic_army",
+    "image": "assets/images/ideas/idea_generic_army.png",
+    "tags": ["Kaiserreich", "KR"],
+  },
+
+  {
+    "name": "idea_generic_navy",
+    "image": "assets/images/ideas/idea_generic_navy.png",
+    "tags": ["Kaiserreich", "KR"],
+  },
+
+  {
+    "name": "idea_generic_trade",
+    "image": "assets/images/ideas/idea_generic_trade.png",
+    "tags": ["Kaiserreich", "KR"],
+  },
+
+  {
+    "name": "idea_guns_shield",
+    "image": "assets/images/ideas/idea_guns_shield.png",
+    "tags": ["Kaiserreich", "KR"],
+  },
+
+  {
+    "name": "idea_advisors_italysoc",
+    "image": "assets/images/ideas/idea_advisors_italysoc.png",
+    "tags": ["Kaiserreich", "KR"],
+  },
+
+  {
+    "name": "idea_advisors_natfrance",
+    "image": "assets/images/ideas/idea_advisors_natfrance.png",
+    "tags": ["Kaiserreich", "KR"],
+  },
+
+  {
+    "name": "idea_advisors_portugal",
+    "image": "assets/images/ideas/idea_advisors_portugal.png",
+    "tags": ["Kaiserreich", "KR"],
+  },
+
+  {
+    "name": "idea_advisors_russia",
+    "image": "assets/images/ideas/idea_advisors_russia.png",
+    "tags": ["Kaiserreich", "KR"],
+  },
+
+  {
+    "name": "idea_advisors_soviet",
+    "image": "assets/images/ideas/idea_advisors_soviet.png",
+    "tags": ["Kaiserreich", "KR"],
+  },
+
+  {
+    "name": "idea_generic_airforce",
+    "image": "assets/images/ideas/idea_generic_airforce.png",
+    "tags": ["Kaiserreich", "KR"],
+  },
+
+  {
+    "name": "idea_advisors_england",
+    "image": "assets/images/ideas/idea_advisors_england.png",
+    "tags": ["Kaiserreich", "KR"],
+  },
+
+  {
+    "name": "idea_advisors_france",
+    "image": "assets/images/ideas/idea_advisors_france.png",
+    "tags": ["Kaiserreich", "KR"],
+  },
+
+  {
+    "name": "idea_advisors_germany",
+    "image": "assets/images/ideas/idea_advisors_germany.png",
+    "tags": ["Kaiserreich", "KR"],
+  },
+
+  {
+    "name": "idea_advisors_italianfed",
+    "image": "assets/images/ideas/idea_advisors_italianfed.png",
+    "tags": ["Kaiserreich", "KR"],
+  },
+
+  {
+    "name": "idea_advisors_austria",
+    "image": "assets/images/ideas/idea_advisors_austria.png",
+    "tags": ["Kaiserreich", "KR"],
+  },
+
 ]
 
 export default ideas;

@@ -1002,6 +1002,258 @@ const goals = [
 		"tags": ["Kaiserreich", "KR", "china", "star"],
 	},
 
+	{
+		"name": "GFX_goal_venezuela",
+		"image": "assets/images/goals/goal_flag_venezuela.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_centroamerica",
+		"image": "assets/images/goals/goal_flag_centroamerica.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_chile",
+		"image": "assets/images/goals/goal_flag_chile.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_cntfai",
+		"image": "assets/images/goals/goal_flag_cntfai.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_comfrance",
+		"image": "assets/images/goals/goal_flag_comfrance.png",
+		"tags": ["Kaiserreich", "KR", "flag", "france"],
+	},
+
+	{
+		"name": "GFX_goal_cuba",
+		"image": "assets/images/goals/goal_flag_cuba.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_dominicanrep",
+		"image": "assets/images/goals/goal_flag_dominicanrep.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_ecuador",
+		"image": "assets/images/goals/goal_flag_ecuador.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_india_dominion",
+		"image": "assets/images/goals/goal_flag_india_dominion.png",
+		"tags": ["Kaiserreich", "KR", "flag", "india"],
+	},
+
+	{
+		"name": "GFX_goal_india_princely_federation",
+		"image": "assets/images/goals/goal_flag_india_princely_federation.png",
+		"tags": ["Kaiserreich", "KR", "flag", "india"],
+	},
+
+	{
+		"name": "GFX_goal_italianfed",
+		"image": "assets/images/goals/goal_flag_italianfed.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_japan",
+		"image": "assets/images/goals/goal_flag_japan.png",
+		"tags": ["Kaiserreich", "KR", "flag", "japan"],
+	},
+
+	{
+		"name": "GFX_goal_laplata",
+		"image": "assets/images/goals/goal_flag_laplata.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_mexico",
+		"image": "assets/images/goals/goal_flag_mexico.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_natfrance",
+		"image": "assets/images/goals/goal_flag_natfrance.png",
+		"tags": ["Kaiserreich", "KR", "flag", "france"],
+	},
+
+	{
+		"name": "GFX_goal_piratini",
+		"image": "assets/images/goals/goal_flag_piratini.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_portugal",
+		"image": "assets/images/goals/goal_flag_portugal.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_spain",
+		"image": "assets/images/goals/goal_flag_spain.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_unitedprovinces",
+		"image": "assets/images/goals/goal_flag_unitedprovinces.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_uruguay",
+		"image": "assets/images/goals/goal_flag_uruguay.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_usa",
+		"image": "assets/images/goals/goal_flag_usa.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_panama",
+		"image": "assets/images/goals/goal_flag_panama.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_paraguay",
+		"image": "assets/images/goals/goal_flag_paraguay.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_peru",
+		"image": "assets/images/goals/goal_flag_peru.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_perubolivia",
+		"image": "assets/images/goals/goal_flag_perubolivia.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_perubolivia_natpop",
+		"image": "assets/images/goals/goal_flag_perubolivia_natpop.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_austria",
+		"image": "assets/images/goals/goal_flag_austria.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_bolivia",
+		"image": "assets/images/goals/goal_flag_bolivia.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_brazil",
+		"image": "assets/images/goals/goal_flag_brazil.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_canada",
+		"image": "assets/images/goals/goal_flag_canada.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_carlist",
+		"image": "assets/images/goals/goal_flag_carlist.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_germany",
+		"image": "assets/images/goals/goal_flag_germany.png",
+		"tags": ["Kaiserreich", "KR", "flag", "germany"],
+	},
+
+	{
+		"name": "GFX_goal_grancolombia",
+		"image": "assets/images/goals/goal_flag_grancolombia.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_haiti",
+		"image": "assets/images/goals/goal_flag_haiti.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_illyria",
+		"image": "assets/images/goals/goal_flag_illyria.png",
+		"tags": ["Kaiserreich", "KR", "flag"],
+	},
+
+	{
+		"name": "GFX_goal_india_commune",
+		"image": "assets/images/goals/goal_flag_india_commune.png",
+		"tags": ["Kaiserreich", "KR", "flag", "india"],
+	},
+
+	{
+		"name": "goal_commune_politics",
+		"image": "assets/images/goals/goal_commune_politics.png",
+		"tags": ["Kaiserreich", "KR", "communism", "syndicalism"],
+	},
+
+	{
+		"name": "goal_red_star_gold_wreath",
+		"image": "assets/images/goals/goal_red_star_gold_wreath.png",
+		"tags": ["Kaiserreich", "KR", "communism", "syndicalism"],
+	},
+
+	{
+		"name": "goal_red_star_green_wreath",
+		"image": "assets/images/goals/goal_red_star_green_wreath.png",
+		"tags": ["Kaiserreich", "KR"],
+	},
+
+	{
+		"name": "goal_white_star",
+		"image": "assets/images/goals/goal_white_star.png",
+		"tags": ["Kaiserreich", "KR", "pacifism"],
+	},
+
+	{
+		"name": "goal_red_star_dove",
+		"image": "assets/images/goals/goal_red_star_dove.png",
+		"tags": ["Kaiserreich", "KR", "communism", "syndicalism", "pacifism"],
+	},
+
+	{
+		"name": "goal_red_star",
+		"image": "assets/images/goals/goal_red_star.png",
+		"tags": ["Kaiserreich", "KR", "communism", "syndicalism"],
+	},
+
 ]
 
 export default goals;
