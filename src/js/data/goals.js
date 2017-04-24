@@ -1219,39 +1219,135 @@ const goals = [
 	},
 
 	{
-		"name": "goal_commune_politics",
+		"name": "GFX_goal_commune_politics",
 		"image": "assets/images/goals/goal_commune_politics.png",
 		"tags": ["Kaiserreich", "KR", "communism", "syndicalism"],
 	},
 
 	{
-		"name": "goal_red_star_gold_wreath",
+		"name": "GFX_goal_red_star_gold_wreath",
 		"image": "assets/images/goals/goal_red_star_gold_wreath.png",
 		"tags": ["Kaiserreich", "KR", "communism", "syndicalism"],
 	},
 
 	{
-		"name": "goal_red_star_green_wreath",
+		"name": "GFX_goal_red_star_green_wreath",
 		"image": "assets/images/goals/goal_red_star_green_wreath.png",
 		"tags": ["Kaiserreich", "KR"],
 	},
 
 	{
-		"name": "goal_white_star",
+		"name": "GFX_goal_white_star",
 		"image": "assets/images/goals/goal_white_star.png",
 		"tags": ["Kaiserreich", "KR", "pacifism"],
 	},
 
 	{
-		"name": "goal_red_star_dove",
+		"name": "GFX_goal_red_star_dove",
 		"image": "assets/images/goals/goal_red_star_dove.png",
 		"tags": ["Kaiserreich", "KR", "communism", "syndicalism", "pacifism"],
 	},
 
 	{
-		"name": "goal_red_star",
+		"name": "GFX_goal_red_star",
 		"image": "assets/images/goals/goal_red_star.png",
 		"tags": ["Kaiserreich", "KR", "communism", "syndicalism"],
+	},
+
+	{
+		"name": "GFX_goal_bankruptcy",
+		"image": "assets/images/goals/goal_bankruptcy.png",
+		"tags": ["Kaiserreich", "KR"],
+	},
+
+	{
+		"name": "GFX_goal_orthodox_state",
+		"image": "assets/images/goals/goal_orthodox_state.png",
+		"tags": ["Kaiserreich", "KR", "religion", "orthodox"],
+	},
+
+	{
+		"name": "GFX_goal_graveyard",
+		"image": "assets/images/goals/goal_graveyard.png",
+		"tags": ["Kaiserreich", "KR", "cross"],
+	},
+
+	{
+		"name": "GFX_goal_munitions_factories",
+		"image": "assets/images/goals/goal_munitions_factories.png",
+		"tags": ["Kaiserreich", "KR", "factory"],
+	},
+
+	{
+		"name": "GFX_goal_offensive_army",
+		"image": "assets/images/goals/goal_offensive_army.png",
+		"tags": ["Kaiserreich", "KR"],
+	},
+
+	{
+		"name": "GFX_goal_national_arsenal",
+		"image": "assets/images/goals/goal_national_arsenal.png",
+		"tags": ["Kaiserreich", "KR", "rifle"],
+	},
+
+	{
+		"name": "GFX_goal_liberty",
+		"image": "assets/images/goals/goal_liberty.png",
+		"tags": ["Kaiserreich", "KR", "rifle"],
+	},
+
+	{
+		"name": "GFX_goal_syndicalist_lenin",
+		"image": "assets/images/goals/goal_syndicalist_lenin.png",
+		"tags": ["Kaiserreich", "KR", "communist", "syndicalist", "soviet"],
+	},
+
+	{
+		"name": "GFX_goal_famine",
+		"image": "assets/images/goals/goal_famine.png",
+		"tags": ["Kaiserreich", "KR", "food"],
+	},
+
+	{
+		"name": "GFX_goal_agriculture",
+		"image": "assets/images/goals/goal_agriculture.png",
+		"tags": ["Kaiserreich", "KR", "food"],
+	},
+
+	{
+		"name": "GFX_goal_production",
+		"image": "assets/images/goals/goal_production.png",
+		"tags": ["Kaiserreich", "KR", "production", "factory"],
+	},
+
+	{
+		"name": "GFX_goal_national_mobilization",
+		"image": "assets/images/goals/goal_national_mobilization.png",
+		"tags": ["Kaiserreich", "KR", "trumpet"],
+	},
+
+	{
+		"name": "GFX_goal_pol_austrian_king",
+		"image": "assets/images/goals/focus_pol_austrian_king.png",
+		"tags": ["Kaiserreich", "KR", "crown", "Austria"],
+	},
+
+	{
+		"name": "GFX_goal_pol_german_king",
+		"image": "assets/images/goals/focus_pol_german_king.png",
+		"tags": ["Kaiserreich", "KR", "crown", "Germany"],
+	},
+
+	{
+		"name": "GFX_goal_pol_lithuanian_king",
+		"image": "assets/images/goals/focus_pol_lithuanian_king.png",
+		"tags": ["Kaiserreich", "KR", "crown", "Lithuania"],
+	},
+
+	{
+		"name": "GFX_goal_pol_polish_king",
+		"image": "assets/images/goals/focus_pol_polish_king.png",
+		"tags": ["Kaiserreich", "KR", "crown", "Poland"],
 	},
 
 ]

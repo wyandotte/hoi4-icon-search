@@ -617,31 +617,31 @@ const ideas = [
   },
 
   {
-    "name": "idea_advisors_italysoc",
+    "name": "advisors_italysoc",
     "image": "assets/images/ideas/idea_advisors_italysoc.png",
     "tags": ["Kaiserreich", "KR"],
   },
 
   {
-    "name": "idea_advisors_natfrance",
+    "name": "advisors_natfrance",
     "image": "assets/images/ideas/idea_advisors_natfrance.png",
     "tags": ["Kaiserreich", "KR"],
   },
 
   {
-    "name": "idea_advisors_portugal",
+    "name": "advisors_portugal",
     "image": "assets/images/ideas/idea_advisors_portugal.png",
     "tags": ["Kaiserreich", "KR"],
   },
 
   {
-    "name": "idea_advisors_russia",
+    "name": "advisors_russia",
     "image": "assets/images/ideas/idea_advisors_russia.png",
     "tags": ["Kaiserreich", "KR"],
   },
 
   {
-    "name": "idea_advisors_soviet",
+    "name": "advisors_soviet",
     "image": "assets/images/ideas/idea_advisors_soviet.png",
     "tags": ["Kaiserreich", "KR"],
   },
@@ -653,31 +653,31 @@ const ideas = [
   },
 
   {
-    "name": "idea_advisors_england",
+    "name": "advisors_england",
     "image": "assets/images/ideas/idea_advisors_england.png",
     "tags": ["Kaiserreich", "KR"],
   },
 
   {
-    "name": "idea_advisors_france",
+    "name": "advisors_france",
     "image": "assets/images/ideas/idea_advisors_france.png",
     "tags": ["Kaiserreich", "KR"],
   },
 
   {
-    "name": "idea_advisors_germany",
+    "name": "advisors_germany",
     "image": "assets/images/ideas/idea_advisors_germany.png",
     "tags": ["Kaiserreich", "KR"],
   },
 
   {
-    "name": "idea_advisors_italianfed",
+    "name": "advisors_italianfed",
     "image": "assets/images/ideas/idea_advisors_italianfed.png",
     "tags": ["Kaiserreich", "KR"],
   },
 
   {
-    "name": "idea_advisors_austria",
+    "name": "advisors_austria",
     "image": "assets/images/ideas/idea_advisors_austria.png",
     "tags": ["Kaiserreich", "KR"],
   },
