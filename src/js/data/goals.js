@@ -1350,6 +1350,67 @@ const goals = [
 		"tags": ["Kaiserreich", "KR", "crown", "Poland"],
 	},
 
+	{
+		"name": "GFX_goal_ideology_authoritarian_democrat",
+		"image": "assets/images/goals/GFX_goal_ideology_authoritarian_democrat.png",
+		"tags": ["KR", "ideology"],
+	},
+
+	{
+		"name": "GFX_goal_ideology_market_liberal",
+		"image": "assets/images/goals/GFX_goal_ideology_market_liberal.png",
+		"tags": ["KR", "ideology"],
+	},
+
+	{
+		"name": "GFX_goal_ideology_national_populist",
+		"image": "assets/images/goals/GFX_goal_ideology_national_populist.png",
+		"tags": ["KR", "ideology"],
+	},
+
+	{
+		"name": "GFX_goal_ideology_paternal_autocrat",
+		"image": "assets/images/goals/GFX_goal_ideology_paternal_autocrat.png",
+		"tags": ["KR", "ideology"],
+	},
+
+	{
+		"name": "GFX_goal_ideology_radical_socialist",
+		"image": "assets/images/goals/GFX_goal_ideology_radical_socialist.png",
+		"tags": ["KR", "ideology", "syndicalist"],
+	},
+
+	{
+		"name": "GFX_goal_ideology_social_conservative",
+		"image": "assets/images/goals/GFX_goal_ideology_social_conservative.png",
+		"tags": ["KR", "ideology"],
+	},
+
+	{
+		"name": "GFX_goal_ideology_social_democrat",
+		"image": "assets/images/goals/GFX_goal_ideology_social_democrat.png",
+		"tags": ["KR", "ideology"],
+	},
+
+	{
+		"name": "GFX_goal_ideology_social_liberal",
+		"image": "assets/images/goals/GFX_goal_ideology_social_liberal.png",
+		"tags": ["KR", "ideology"],
+	},
+
+	{
+		"name": "GFX_goal_ideology_syndicalist",
+		"image": "assets/images/goals/GFX_goal_ideology_syndicalist.png",
+		"tags": ["KR", "ideology", "syndicalist"],
+	},
+
+	{
+		"name": "GFX_goal_ideology_totalist",
+		"image": "assets/images/goals/GFX_goal_ideology_totalist.png",
+		"tags": ["KR", "ideology", "syndicalist"],
+	},
+
+
 ]
 
 export default goals;
