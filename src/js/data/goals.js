@@ -1410,6 +1410,145 @@ const goals = [
 		"tags": ["KR", "ideology", "syndicalist"],
 	},
 
+	{
+		"name": "GFX_focus_cze_german_puppet",
+		"image": "assets/images/goals/focus_cze_german_puppet.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_cze_military_aeronautical_institute",
+		"image": "assets/images/goals/focus_cze_military_aeronautical_institute.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_cze_military_research_institute",
+		"image": "assets/images/goals/focus_cze_military_research_institute.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_generic_concessions",
+		"image": "assets/images/goals/focus_generic_concessions.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_generic_license_production",
+		"image": "assets/images/goals/focus_generic_license_production.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_generic_military_mission",
+		"image": "assets/images/goals/focus_generic_military_mission.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_generic_self_management",
+		"image": "assets/images/goals/focus_generic_self_management.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_hun_assassinate_horthy",
+		"image": "assets/images/goals/focus_hun_assassinate_horthy.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_hun_elect_a_king",
+		"image": "assets/images/goals/focus_hun_elect_a_king.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_proclaim_the_restauration_of_austria_hungary",
+		"image": "assets/images/goals/focus_proclaim_the_restauration_of_austria_hungary.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_renounce_the_treaty_of_triannon",
+		"image": "assets/images/goals/focus_renounce_the_treaty_of_triannon.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_rom_abdicate",
+		"image": "assets/images/goals/focus_rom_abdicate.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_rom_coup",
+		"image": "assets/images/goals/focus_rom_coup.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_rom_handle_king",
+		"image": "assets/images/goals/focus_rom_handle_king.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_rom_parties_end",
+		"image": "assets/images/goals/focus_rom_parties_end.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_rom_preserve_romania",
+		"image": "assets/images/goals/focus_rom_preserve_romania.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_rom_royal_dictatorship",
+		"image": "assets/images/goals/focus_rom_royal_dictatorship.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_secret_rearmament",
+		"image": "assets/images/goals/focus_secret_rearmament.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_yug_banovina_of_croatia",
+		"image": "assets/images/goals/focus_yug_banovina_of_croatia.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_yug_ikarus",
+		"image": "assets/images/goals/focus_yug_ikarus.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_yug_pan_slavic_congress",
+		"image": "assets/images/goals/focus_yug_pan_slavic_congress.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_yug_rogozarski",
+		"image": "assets/images/goals/focus_yug_rogozarski.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+	{
+		"name": "GFX_focus_yug_zmaj",
+		"image": "assets/images/goals/focus_yug_zmaj.png",
+		"tags": ["vanilla", "dod"]
+	},
+
+
 
 ]
 
