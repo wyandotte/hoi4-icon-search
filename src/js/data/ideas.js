@@ -725,7 +725,7 @@ const ideas = [
   },
 
   {
-    "name": "GFX_idea_HUN_treaty_of_trianon",
+    "name": "GFX_idea_HUN_treaty_of_triannon",
     "image": "assets/images/ideas/idea_hun_treaty_of_trianon_result.png",
     "tags": ["vanilla", "dod"]
   },
