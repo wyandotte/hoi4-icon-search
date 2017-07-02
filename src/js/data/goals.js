@@ -1413,85 +1413,85 @@ const goals = [
 	{
 		"name": "GFX_focus_cze_german_puppet",
 		"image": "assets/images/goals/focus_cze_german_puppet.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "puppet"]
 	},
 
 	{
 		"name": "GFX_focus_cze_military_aeronautical_institute",
 		"image": "assets/images/goals/focus_cze_military_aeronautical_institute.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "czechoslovakia", "air"]
 	},
 
 	{
 		"name": "GFX_focus_cze_military_research_institute",
 		"image": "assets/images/goals/focus_cze_military_research_institute.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "czechoslovakia", "tank", "armour"]
 	},
 
 	{
 		"name": "GFX_focus_generic_concessions",
 		"image": "assets/images/goals/focus_generic_concessions.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "hands", "concessions"]
 	},
 
 	{
 		"name": "GFX_focus_generic_license_production",
 		"image": "assets/images/goals/focus_generic_license_production.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "production", "tank", "plane"]
 	},
 
 	{
 		"name": "GFX_focus_generic_military_mission",
 		"image": "assets/images/goals/focus_generic_military_mission.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "soldier"]
 	},
 
 	{
 		"name": "GFX_focus_generic_self_management",
 		"image": "assets/images/goals/focus_generic_self_management.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "hand", "government"]
 	},
 
 	{
 		"name": "GFX_focus_hun_assassinate_horthy",
 		"image": "assets/images/goals/focus_hun_assassinate_horthy.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "hungary", "horthy"]
 	},
 
 	{
 		"name": "GFX_focus_hun_elect_a_king",
 		"image": "assets/images/goals/focus_hun_elect_a_king.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "hungary", "crown"]
 	},
 
 	{
 		"name": "GFX_focus_proclaim_the_restauration_of_austria_hungary",
 		"image": "assets/images/goals/focus_proclaim_the_restauration_of_austria_hungary.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "hungary", "austria", "austria-hungary"]
 	},
 
 	{
 		"name": "GFX_focus_renounce_the_treaty_of_triannon",
 		"image": "assets/images/goals/focus_renounce_the_treaty_of_triannon.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "treaty"]
 	},
 
 	{
 		"name": "GFX_focus_rom_abdicate",
 		"image": "assets/images/goals/focus_rom_abdicate.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "crown"]
 	},
 
 	{
 		"name": "GFX_focus_rom_coup",
 		"image": "assets/images/goals/focus_rom_coup.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "romania", "michael"]
 	},
 
 	{
 		"name": "GFX_focus_rom_handle_king",
 		"image": "assets/images/goals/focus_rom_handle_king.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "crown"]
 	},
 
 	{
@@ -1503,163 +1503,163 @@ const goals = [
 	{
 		"name": "GFX_focus_rom_preserve_romania",
 		"image": "assets/images/goals/focus_rom_preserve_romania.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "romania", "shield"]
 	},
 
 	{
 		"name": "GFX_focus_rom_royal_dictatorship",
 		"image": "assets/images/goals/focus_rom_royal_dictatorship.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "crown", "fist"]
 	},
 
 	{
 		"name": "GFX_focus_secret_rearmament",
 		"image": "assets/images/goals/focus_secret_rearmament.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "guns"]
 	},
 
 	{
 		"name": "GFX_focus_yug_banovina_of_croatia",
 		"image": "assets/images/goals/focus_yug_banovina_of_croatia.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "croatia"]
 	},
 
 	{
 		"name": "GFX_focus_yug_ikarus",
 		"image": "assets/images/goals/focus_yug_ikarus.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "serbia", "yugoslavia"]
 	},
 
 	{
 		"name": "GFX_focus_yug_pan_slavic_congress",
 		"image": "assets/images/goals/focus_yug_pan_slavic_congress.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "soldiers", "communism"]
 	},
 
 	{
 		"name": "GFX_focus_yug_rogozarski",
 		"image": "assets/images/goals/focus_yug_rogozarski.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "serbia", "yugoslavia"]
 	},
 
 	{
 		"name": "GFX_focus_yug_zmaj",
 		"image": "assets/images/goals/focus_yug_zmaj.png",
-		"tags": ["vanilla", "dod"]
+		"tags": ["vanilla", "dod", "serbia", "yugoslavia"]
 	},
 
 	{
 		"name": "GFX_goal_agrarian_reform",
 		"image": "assets/images/goals/GFX_goal_agrarian_reform.png",
-		"tags": ["Kaiserreich", "KR"]
+		"tags": ["Kaiserreich", "KR", "government"]
 	},
 
 	{
 		"name": "GFX_goal_authority",
 		"image": "assets/images/goals/GFX_goal_authority.png",
-		"tags": ["Kaiserreich", "KR"]
+		"tags": ["Kaiserreich", "KR", "sword"]
 	},
 
 	{
 		"name": "GFX_goal_broken_red_star",
 		"image": "assets/images/goals/GFX_goal_broken_red_star.png",
-		"tags": ["Kaiserreich", "KR"]
+		"tags": ["Kaiserreich", "KR", "communism", "syndicalism"]
 	},
 
 	{
 		"name": "GFX_goal_constitutional_guarantees",
 		"image": "assets/images/goals/GFX_goal_constitutional_guarantees.png",
-		"tags": ["Kaiserreich", "KR"]
+		"tags": ["Kaiserreich", "KR", "treaty", "constitution"]
 	},
 
 	{
 		"name": "GFX_goal_construction_engineering",
 		"image": "assets/images/goals/GFX_goal_construction_engineering.png",
-		"tags": ["Kaiserreich", "KR"]
+		"tags": ["Kaiserreich", "KR", "construction", "production", "mines"]
 	},
 
 	{
 		"name": "GFX_goal_generic_coastal_navy",
 		"image": "assets/images/goals/GFX_goal_generic_coastal_navy.png",
-		"tags": ["Kaiserreich", "KR"]
+		"tags": ["Kaiserreich", "KR", "navy", "ship", "battleship"]
 	},
 
 	{
 		"name": "GFX_goal_generic_sea_focused_navy",
 		"image": "assets/images/goals/GFX_goal_generic_sea_focused_navy.png",
-		"tags": ["Kaiserreich", "KR"]
+		"tags": ["Kaiserreich", "KR", "navy", "ship", "battleship"]		
 	},
 
 	{
 		"name": "GFX_goal_gold_reserve",
 		"image": "assets/images/goals/GFX_goal_gold_reserve.png",
-		"tags": ["Kaiserreich", "KR"]
+		"tags": ["Kaiserreich", "KR", "money", "gold"]
 	},
 
 	{
 		"name": "GFX_goal_military_academy",
 		"image": "assets/images/goals/GFX_goal_military_academy.png",
-		"tags": ["Kaiserreich", "KR"]
+		"tags": ["Kaiserreich", "KR", "guns"]
 	},
 
 	{
 		"name": "GFX_goal_national_artillery",
 		"image": "assets/images/goals/GFX_goal_national_artillery.png",
-		"tags": ["Kaiserreich", "KR"]
+		"tags": ["Kaiserreich", "KR", "artillery"]
 	},
 
 	{
 		"name": "GFX_goal_nested_fortifications",
 		"image": "assets/images/goals/GFX_goal_nested_fortifications.png",
-		"tags": ["Kaiserreich", "KR"]
+		"tags": ["Kaiserreich", "KR", "fort", "defense"]
 	},
 
 	{
 		"name": "GFX_goal_new_treaty",
 		"image": "assets/images/goals/GFX_goal_new_treaty.png",
-		"tags": ["Kaiserreich", "KR"]
+		"tags": ["Kaiserreich", "KR", "treaty"]
 	},
 
 	{
 		"name": "GFX_goal_planning_bonus",
 		"image": "assets/images/goals/GFX_goal_planning_bonus.png",
-		"tags": ["Kaiserreich", "KR"]
+		"tags": ["Kaiserreich", "KR", "planning"]
 	},
 
 	{
 		"name": "GFX_goal_revolution",
 		"image": "assets/images/goals/GFX_goal_revolution.png",
-		"tags": ["Kaiserreich", "KR"]
+		"tags": ["Kaiserreich", "KR", "fist"]
 	},
 
 	{
 		"name": "GFX_goal_secret_agents",
 		"image": "assets/images/goals/GFX_goal_secret_agents.png",
-		"tags": ["Kaiserreich", "KR"]
+		"tags": ["Kaiserreich", "KR", "pistol"]
 	},
 
 	{
 		"name": "GFX_goal_skull_fortification",
 		"image": "assets/images/goals/GFX_goal_skull_fortification.png",
-		"tags": ["Kaiserreich", "KR"]
+		"tags": ["Kaiserreich", "KR", "skull", "fort", "defense"]
 	},
 
 	{
 		"name": "GFX_goal_skull_treaty",
 		"image": "assets/images/goals/GFX_goal_skull_treaty.png",
-		"tags": ["Kaiserreich", "KR"]
+		"tags": ["Kaiserreich", "KR", "skull", "star", "treaty"]
 	},
 
 	{
 		"name": "GFX_goal_step_on_skull",
 		"image": "assets/images/goals/GFX_goal_step_on_skull.png",
-		"tags": ["Kaiserreich", "KR"]
+		"tags": ["Kaiserreich", "KR", "skull"]
 	},
 
 	{
 		"name": "GFX_goal_volunteer_alliance",
 		"image": "assets/images/goals/GFX_goal_volunteer_alliance.png",
-		"tags": ["Kaiserreich", "KR"]
+		"tags": ["Kaiserreich", "KR", "fist", "alliance"]
 	},
 
 
