@@ -1036,6 +1036,11 @@ const ideas = [
     "tags": ["vanilla", "dod", "guns"]
   },
 
+  {
+    "name": "GFX_SIA_police_idea",
+    "image": "assets/images/ideas/SIA_police_idea.png",
+    "tags": ["Kaiserreich", "KR", "cap"]
+  },
 
 ]
 

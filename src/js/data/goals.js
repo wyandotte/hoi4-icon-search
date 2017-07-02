@@ -1662,7 +1662,29 @@ const goals = [
 		"tags": ["Kaiserreich", "KR", "fist", "alliance"]
 	},
 
+	{
+		"name": "GFX_SIA_maritmesilkroad",
+		"image": "assets/images/goals/SIA_maritmesilkroad.png",
+		"tags": ["Kaiserreich", "KR", "production", "transportation"]
+	},
 
+	{
+		"name": "GFX_SIA_jungletraining",
+		"image": "assets/images/goals/SIA_jungletraining.png",
+		"tags": ["Kaiserreich", "KR", "guns"]
+	},
+
+	{
+		"name": "GFX_SIA_rearmement",
+		"image": "assets/images/goals/SIA_rearmement.png",
+		"tags": ["Kaiserreich", "KR", "guns"]
+	},
+
+	{
+		"name": "GFX_SIA_tank",
+		"image": "assets/images/goals/SIA_tank.png",
+		"tags": ["Kaiserreich", "KR", "tank", "armour"]
+	},
 
 ]
 
