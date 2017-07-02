@@ -1548,6 +1548,120 @@ const goals = [
 		"tags": ["vanilla", "dod"]
 	},
 
+	{
+		"name": "GFX_goal_agrarian_reform",
+		"image": "assets/images/goals/GFX_goal_agrarian_reform.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_authority",
+		"image": "assets/images/goals/GFX_goal_authority.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_broken_red_star",
+		"image": "assets/images/goals/GFX_goal_broken_red_star.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_constitutional_guarantees",
+		"image": "assets/images/goals/GFX_goal_constitutional_guarantees.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_construction_engineering",
+		"image": "assets/images/goals/GFX_goal_construction_engineering.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_generic_coastal_navy",
+		"image": "assets/images/goals/GFX_goal_generic_coastal_navy.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_generic_sea_focused_navy",
+		"image": "assets/images/goals/GFX_goal_generic_sea_focused_navy.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_gold_reserve",
+		"image": "assets/images/goals/GFX_goal_gold_reserve.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_military_academy",
+		"image": "assets/images/goals/GFX_goal_military_academy.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_national_artillery",
+		"image": "assets/images/goals/GFX_goal_national_artillery.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_nested_fortifications",
+		"image": "assets/images/goals/GFX_goal_nested_fortifications.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_new_treaty",
+		"image": "assets/images/goals/GFX_goal_new_treaty.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_planning_bonus",
+		"image": "assets/images/goals/GFX_goal_planning_bonus.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_revolution",
+		"image": "assets/images/goals/GFX_goal_revolution.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_secret_agents",
+		"image": "assets/images/goals/GFX_goal_secret_agents.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_skull_fortification",
+		"image": "assets/images/goals/GFX_goal_skull_fortification.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_skull_treaty",
+		"image": "assets/images/goals/GFX_goal_skull_treaty.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_step_on_skull",
+		"image": "assets/images/goals/GFX_goal_step_on_skull.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_volunteer_alliance",
+		"image": "assets/images/goals/GFX_goal_volunteer_alliance.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
 
 
 ]
