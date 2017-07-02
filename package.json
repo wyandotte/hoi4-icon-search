@@ -9,8 +9,6 @@
   "devDependencies": {
     "clipboard": "^1.5.16",
     "laravel-mix": "^0.4.0",
-    "vue": "^2.0.1",
-    "vue-resource": "^1.0.3",
-    "vue-router": "^2.1.1"
+    "vue": "2.1.8"
   }
 }
