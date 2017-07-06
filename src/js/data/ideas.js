@@ -683,355 +683,355 @@ const ideas = [
   },
 
   {
-    "name": "GFX_idea_HUN_charles_v",
+    "name": "HUN_charles_v",
     "image": "assets/images/ideas/idea_hun_charles_v_result.png",
     "tags": ["vanilla", "dod", "hungary"]
   },
 
   {
-    "name": "GFX_idea_HUN_dynastic_ties",
+    "name": "HUN_dynastic_ties",
     "image": "assets/images/ideas/idea_hun_dynastic_ties_result.png",
     "tags": ["vanilla", "dod", "hungary"]
   },
 
   {
-    "name": "GFX_idea_HUN_hungarian_monarchy",
+    "name": "HUN_hungarian_monarchy",
     "image": "assets/images/ideas/idea_hun_hungarian_monarchy_result.png",
     "tags": ["vanilla", "dod", "hungary", "crown"]
   },
 
   {
-    "name": "GFX_idea_HUN_hungarian_monarchy_democratic",
+    "name": "HUN_hungarian_monarchy_democratic",
     "image": "assets/images/ideas/idea_hun_hungarian_monarchy_democratic_result.png",
     "tags": ["vanilla", "dod", "hungary", "crown"]
   },
 
   {
-    "name": "GFX_idea_HUN_hungarian_monarchy_fascism",
+    "name": "HUN_hungarian_monarchy_fascism",
     "image": "assets/images/ideas/idea_hun_hungarian_monarchy_fascism_result.png",
     "tags": ["vanilla", "dod", "hungary", "crown"]
   },
 
   {
-    "name": "GFX_idea_HUN_hungarian_monarchy_habsburg",
+    "name": "HUN_hungarian_monarchy_habsburg",
     "image": "assets/images/ideas/idea_hun_hungarian_monarchy_habsburg_result.png",
     "tags": ["vanilla", "dod", "hungary", "crown"]
   },
 
   {
-    "name": "GFX_idea_HUN_secret_rearmament",
+    "name": "HUN_secret_rearmament",
     "image": "assets/images/ideas/idea_hun_secret_rearmament_result.png",
     "tags": ["vanilla", "dod", "guns"]
   },
 
   {
-    "name": "GFX_idea_HUN_treaty_of_triannon",
+    "name": "HUN_treaty_of_triannon",
     "image": "assets/images/ideas/idea_hun_treaty_of_trianon_result.png",
     "tags": ["vanilla", "dod", "treaty"]
   },
 
   {
-    "name": "GFX_idea_ROM_balkan_dominance",
+    "name": "ROM_balkan_dominance",
     "image": "assets/images/ideas/idea_rom_balkan_dominance_result.png",
     "tags": ["vanilla", "dod", "fist", "balkans"]
   },
 
   {
-    "name": "GFX_idea_ROM_carol_emptied_accounts",
+    "name": "ROM_carol_emptied_accounts",
     "image": "assets/images/ideas/idea_rom_carol_emptied_accounts_result.png",
     "tags": ["vanilla", "dod", "romania", "bank", "money"]
   },
 
   {
-    "name": "GFX_idea_ROM_carol_ii_deal",
+    "name": "ROM_carol_ii_deal",
     "image": "assets/images/ideas/idea_rom_carol_ii_deal_result.png",
     "tags": ["vanilla", "dod", "romania", "carol"]
   },
 
   {
-    "name": "GFX_idea_ROM_carol_ii_greed",
+    "name": "ROM_carol_ii_greed",
     "image": "assets/images/ideas/idea_rom_carol_ii_greed_result.png",
     "tags": ["vanilla", "dod", "romania", "carol", "money"]
   },
 
   {
-    "name": "GFX_idea_ROM_carol_ii_hedonist",
+    "name": "ROM_carol_ii_hedonist",
     "image": "assets/images/ideas/idea_rom_carol_ii_hedonist_result.png",
     "tags": ["vanilla", "dod"]
   },
 
   {
-    "name": "GFX_idea_ROM_iron_guard",
+    "name": "ROM_iron_guard",
     "image": "assets/images/ideas/idea_rom_iron_guard_result.png",
     "tags": ["vanilla", "dod", "romania"]
   },
 
   {
-    "name": "GFX_idea_ROM_michael_figurehead",
+    "name": "ROM_michael_figurehead",
     "image": "assets/images/ideas/idea_rom_michael_figurehead_result.png",
     "tags": ["vanilla", "dod", "romania", "michael"]
   },
 
   {
-    "name": "GFX_idea_ROM_preserve_greater_romania",
+    "name": "ROM_preserve_greater_romania",
     "image": "assets/images/ideas/idea_rom_preserve_greater_romania_result.png",
     "tags": ["vanilla", "dod", "romania"]
   },
 
   {
-    "name": "GFX_idea_ROM_sentinel_of_motherland",
+    "name": "ROM_sentinel_of_motherland",
     "image": "assets/images/ideas/idea_rom_sentinel_of_motherland_result.png",
     "tags": ["vanilla", "dod", "romania"]
   },
 
   {
-    "name": "GFX_idea_ROM_sentinel_of_motherland2",
+    "name": "ROM_sentinel_of_motherland2",
     "image": "assets/images/ideas/idea_rom_sentinel_of_motherland2_result.png",
     "tags": ["vanilla", "dod", "romania"]
   },
 
   {
-    "name": "GFX_idea_YUG_all_yugoslavian_regiments",
+    "name": "YUG_all_yugoslavian_regiments",
     "image": "assets/images/ideas/idea_yug_all_yugoslavian_regiments_result.png",
     "tags": ["vanilla", "dod", "yugoslavia"]
   },
 
   {
-    "name": "GFX_idea_YUG_federal_defense_council",
+    "name": "YUG_federal_defense_council",
     "image": "assets/images/ideas/idea_yug_federal_defense_council_result.png",
     "tags": ["vanilla", "dod", "shield"]
   },
 
   {
-    "name": "GFX_idea_YUG_local_militias",
+    "name": "YUG_local_militias",
     "image": "assets/images/ideas/idea_yug_local_militias_result.png",
     "tags": ["vanilla", "dod", "yugoslavia", "guns"]
   },
 
   {
-    "name": "GFX_idea_YUG_orthodox_church_support",
+    "name": "YUG_orthodox_church_support",
     "image": "assets/images/ideas/idea_yug_orthodox_church_support_result.png",
     "tags": ["vanilla", "dod", "orthodox", "cross"]
   },
 
   {
-    "name": "GFX_idea_YUG_serbian_general_staff",
+    "name": "YUG_serbian_general_staff",
     "image": "assets/images/ideas/idea_yug_serbian_general_staff_result.png",
     "tags": ["vanilla", "dod", "serbia", "yugoslavia", "cap"]
   },
 
   {
-    "name": "GFX_idea_YUG_yugoslavian_general_staff",
+    "name": "YUG_yugoslavian_general_staff",
     "image": "assets/images/ideas/idea_yug_yugoslavian_general_staff_result.png",
     "tags": ["vanilla", "dod", "yugoslavia", "cap"]
   },
 
   {
-    "name": "GFX_idea_CZE_divided_nation",
+    "name": "CZE_divided_nation",
     "image": "assets/images/ideas/idea_cze_divided_nation_result.png",
     "tags": ["vanilla", "dod", "czechoslovakia"]
   },
 
   {
-    "name": "GFX_idea_CZE_planning_bonus",
+    "name": "CZE_planning_bonus",
     "image": "assets/images/ideas/idea_cze_planning_bonus_result.png",
     "tags": ["vanilla", "dod", "plan"]
   },
 
   {
-    "name": "GFX_idea_CZE_skoda_works",
+    "name": "CZE_skoda_works",
     "image": "assets/images/ideas/idea_cze_skoda_works_result.png",
     "tags": ["vanilla", "dod", "skoda"]
   },
 
   {
-    "name": "GFX_idea_generic_acquire_tanks",
+    "name": "generic_acquire_tanks",
     "image": "assets/images/ideas/idea_generic_acquire_tanks_result.png",
     "tags": ["vanilla", "dod", "armour", "tank"]
   },
 
   {
-    "name": "GFX_idea_generic_agrarian_reform",
+    "name": "generic_agrarian_reform",
     "image": "assets/images/ideas/idea_generic_agrarian_reform_result.png",
     "tags": ["vanilla", "dod", "government"]
   },
 
   {
-    "name": "GFX_idea_generic_air_payment",
+    "name": "generic_air_payment",
     "image": "assets/images/ideas/idea_generic_air_payment_result.png",
     "tags": ["vanilla", "dod", "air", "planes"]
   },
 
   {
-    "name": "GFX_idea_generic_air_research",
+    "name": "generic_air_research",
     "image": "assets/images/ideas/idea_generic_air_research_result.png",
     "tags": ["vanilla", "dod", "air", "bomber", "plane"]
   },
 
   {
-    "name": "GFX_idea_generic_armor",
+    "name": "generic_armor",
     "image": "assets/images/ideas/idea_generic_armor_result.png",
     "tags": ["vanilla", "dod", "armour", "tank"]
   },
 
   {
-    "name": "GFX_idea_generic_army_war_college",
+    "name": "generic_army_war_college",
     "image": "assets/images/ideas/idea_generic_army_war_college_result.png",
     "tags": ["vanilla", "dod", "soldiers"]
   },
 
   {
-    "name": "GFX_idea_generic_artillery_regiments",
+    "name": "generic_artillery_regiments",
     "image": "assets/images/ideas/idea_generic_artillery_regiments_result.png",
     "tags": ["vanilla", "dod", "artillery"]
   },
 
   {
-    "name": "GFX_idea_generic_bomber_production_diverted",
+    "name": "generic_bomber_production_diverted",
     "image": "assets/images/ideas/idea_generic_bomber_production_diverted_result.png",
     "tags": ["vanilla", "dod", "air", "plane", "bomber"]
   },
 
   {
-    "name": "GFX_idea_generic_central_management",
+    "name": "generic_central_management",
     "image": "assets/images/ideas/idea_generic_central_management_result.png",
     "tags": ["vanilla", "dod", "industry", "production"]
   },
 
   {
-    "name": "GFX_idea_generic_coastal_defense_ships",
+    "name": "generic_coastal_defense_ships",
     "image": "assets/images/ideas/idea_generic_coastal_defense_ships_result.png",
     "tags": ["vanilla", "dod", "navy", "ship", "battleship"]
   },
 
   {
-    "name": "GFX_idea_generic_coastal_defense_ships2",
+    "name": "generic_coastal_defense_ships2",
     "image": "assets/images/ideas/idea_generic_coastal_defense_ships2_result.png",
     "tags": ["vanilla", "dod", "navy", "ship", "battleship"]
   },
 
   {
-    "name": "GFX_idea_generic_coastal_navy",
+    "name": "generic_coastal_navy",
     "image": "assets/images/ideas/idea_generic_coastal_navy_result.png",
     "tags": ["vanilla", "dod", "navy", "ship", "battleship"]
   },
 
   {
-    "name": "GFX_idea_generic_communist_army",
+    "name": "generic_communist_army",
     "image": "assets/images/ideas/idea_generic_communist_army_result.png",
     "tags": ["vanilla", "dod", "soldier", "communist"]
   },
 
   {
-    "name": "GFX_idea_generic_constitutional_guarantee",
+    "name": "generic_constitutional_guarantees",
     "image": "assets/images/ideas/idea_generic_constitutional_guarantee_result.png",
     "tags": ["vanilla", "dod", "treaty", "constitution"]
   },
 
   {
-    "name": "GFX_idea_generic_deal_with_the_devil",
+    "name": "generic_deal_with_the_devil",
     "image": "assets/images/ideas/idea_generic_deal_with_the_devil_result.png",
     "tags": ["vanilla", "dod", "shaking hands"]
   },
 
   {
-    "name": "GFX_idea_generic_deal_with_the_devil2",
+    "name": "generic_deal_with_the_devil2",
     "image": "assets/images/ideas/idea_generic_deal_with_the_devil2_result.png",
     "tags": ["vanilla", "dod", "shaking hands"]
   },
 
   {
-    "name": "GFX_idea_generic_degauss_ship_hulls",
+    "name": "generic_degauss_ship_hulls",
     "image": "assets/images/ideas/idea_generic_degauss_ship_hulls_result.png",
     "tags": ["vanilla", "dod", "ship", "navy"]
   },
 
   {
-    "name": "GFX_idea_generic_exploit_mines",
+    "name": "generic_exploit_mines",
     "image": "assets/images/ideas/idea_generic_exploit_mines_result.png",
     "tags": ["vanilla", "dod", "mines", "production"]
   },
 
   {
-    "name": "GFX_idea_generic_fascism_banned",
+    "name": "generic_fascism_banned",
     "image": "assets/images/ideas/idea_generic_fascism_banned_result.png",
     "tags": ["vanilla", "dod", "eagle", "fascism"]
   },
 
   {
-    "name": "GFX_idea_generic_fascism_drift_2",
+    "name": "generic_fascism_drift_2",
     "image": "assets/images/ideas/idea_generic_fascism_drift_2_result.png",
     "tags": ["vanilla", "dod", "eagle", "fascism"]
   },
 
   {
-    "name": "GFX_idea_generic_fighter_production_diverted",
+    "name": "generic_fighter_production_diverted",
     "image": "assets/images/ideas/idea_generic_fighter_production_diverted_result.png",
     "tags": ["vanilla", "dod", "air", "fighter", "plane"]
   },
 
   {
-    "name": "GFX_idea_generic_flexible_foreign_policy",
+    "name": "generic_flexible_foreign_policy",
     "image": "assets/images/ideas/idea_generic_flexible_foreign_policy_result.png",
     "tags": ["vanilla", "dod", "trade"]
   },
 
   {
-    "name": "GFX_idea_generic_flexible_foreign_policy2",
+    "name": "generic_flexible_foreign_policy2",
     "image": "assets/images/ideas/idea_generic_flexible_foreign_policy2_result.png",
     "tags": ["vanilla", "dod", "trade"]
   },
 
   {
-    "name": "GFX_idea_generic_foreign_capital",
+    "name": "generic_foreign_capital",
     "image": "assets/images/ideas/idea_generic_foreign_capital_result.png",
     "tags": ["vanilla", "dod", "money"]
   },
 
   {
-    "name": "GFX_idea_generic_fortify_the_borders",
+    "name": "generic_fortify_the_borders",
     "image": "assets/images/ideas/idea_generic_fortify_the_borders_result.png",
     "tags": ["vanilla", "dod", "fort", "defense"]
   },
 
   {
-    "name": "GFX_idea_generic_king_handled",
+    "name": "generic_king_handled",
     "image": "assets/images/ideas/idea_generic_king_handled_result.png",
     "tags": ["vanilla", "dod", "crown"]
   },
 
   {
-    "name": "GFX_idea_generic_license_production",
+    "name": "generic_license_production",
     "image": "assets/images/ideas/idea_generic_license_production_result.png",
     "tags": ["vanilla", "dod", "production", "plane", "tank", "armour"]
   },
 
   {
-    "name": "GFX_idea_generic_local_self_management",
+    "name": "generic_local_self_management",
     "image": "assets/images/ideas/idea_generic_local_self_management_result.png",
     "tags": ["vanilla", "dod", "production", "industry"]
   },
 
   {
-    "name": "GFX_idea_generic_reserve_divisions",
+    "name": "generic_reserve_divisions",
     "image": "assets/images/ideas/idea_generic_reserve_divisions_result.png",
     "tags": ["vanilla", "dod", "soldiers"]
   },
 
   {
-    "name": "GFX_idea_generic_sea_focused_navy",
+    "name": "generic_sea_focused_navy",
     "image": "assets/images/ideas/idea_generic_sea_focused_navy_result.png",
     "tags": ["vanilla", "dod", "navy", "battleship", "ship"]
   },
 
   {
-    "name": "GFX_idea_generic_secret_police",
+    "name": "generic_secret_police",
     "image": "assets/images/ideas/idea_generic_secret_police_result.png",
     "tags": ["vanilla", "dod", "pistol"]
   },
 
   {
-    "name": "GFX_idea_generic_war_preparation",
+    "name": "generic_war_preparation",
     "image": "assets/images/ideas/idea_generic_war_preparation_result.png",
     "tags": ["vanilla", "dod", "guns"]
   },
