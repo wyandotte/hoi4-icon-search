@@ -737,7 +737,7 @@ const ideas = [
   },
 
   {
-    "name": "ROM_carol_emptied_accounts",
+    "name": "ROM_king_carol_emptied_accounts",
     "image": "assets/images/ideas/idea_rom_carol_emptied_accounts_result.png",
     "tags": ["vanilla", "dod", "romania", "bank", "money"]
   },
@@ -767,7 +767,7 @@ const ideas = [
   },
 
   {
-    "name": "ROM_michael_figurehead",
+    "name": "ROM_figurehead_king_michael",
     "image": "assets/images/ideas/idea_rom_michael_figurehead_result.png",
     "tags": ["vanilla", "dod", "romania", "michael"]
   },
