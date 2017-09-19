@@ -1042,6 +1042,12 @@ const ideas = [
     "tags": ["Kaiserreich", "KR", "cap"]
   },
 
+  {
+    "name": "capital_outflow",
+    "image": "assets/images/ideas/capital_outflow.png",
+    "tags": ["Kaiserreich", "KR", "money"]
+  },
+
 ]
 
 export default ideas;
