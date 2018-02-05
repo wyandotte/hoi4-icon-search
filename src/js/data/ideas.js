@@ -755,7 +755,7 @@ const ideas = [
   },
 
   {
-    "name": "ROM_carol_ii_hedonist",
+    "name": "ROM_king_carol_ii_hedonist",
     "image": "assets/images/ideas/idea_rom_carol_ii_hedonist_result.png",
     "tags": ["vanilla", "dod"]
   },
@@ -995,7 +995,7 @@ const ideas = [
   },
 
   {
-    "name": "generic_king_handled",
+    "name": "ROM_king_carol_ii_handled",
     "image": "assets/images/ideas/idea_generic_king_handled_result.png",
     "tags": ["vanilla", "dod", "crown"]
   },

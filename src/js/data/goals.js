@@ -1686,6 +1686,175 @@ const goals = [
 		"tags": ["Kaiserreich", "KR", "tank", "armour"]
 	},
 
+	{
+		"name": "GFX_goal_basic_oil",
+		"image": "assets/images/goals/GFX_goal_basic_oil.png",
+		"tags": ["Kaiserreich", "KR", "production", "resources"]
+	},
+
+	{
+		"name": "GFX_goal_BEL_Battleship_Investements",
+		"image": "assets/images/goals/GFX_goal_BEL_Battleship_Investements.png",
+		"tags": ["Kaiserreich", "KR", "ship", "navy"]
+	},
+
+	{
+		"name": "GFX_goal_BEL_caritas",
+		"image": "assets/images/goals/GFX_goal_BEL_caritas.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_Centralised_Government",
+		"image": "assets/images/goals/GFX_goal_Centralised_Government.png",
+		"tags": ["Kaiserreich", "KR", "government", "fist"]
+	},
+
+	{
+		"name": "GFX_goal_Cyclotron",
+		"image": "assets/images/goals/GFX_goal_Cyclotron.png",
+		"tags": ["Kaiserreich", "KR", "production", "factory"]
+	},
+
+	{
+		"name": "GFX_goal_Dismantle_French_Education",
+		"image": "assets/images/goals/GFX_goal_Dismantle_French_Education.png",
+		"tags": ["Kaiserreich", "KR", "france"]
+	},
+
+	{
+		"name": "GFX_goal_FLN_Poppys",
+		"image": "assets/images/goals/GFX_goal_FLN_Poppys.png",
+		"tags": ["Kaiserreich", "KR", "ww1", "weltkrieg"]
+	},
+
+	{
+		"name": "GFX_goal_further_oil",
+		"image": "assets/images/goals/GFX_goal_further_oil.png",
+		"tags": ["Kaiserreich", "KR", "production", "oil"]
+	},
+
+	{
+		"name": "GFX_goal_German_Investements",
+		"image": "assets/images/goals/GFX_goal_German_Investements.png",
+		"tags": ["Kaiserreich", "KR", "germany", "gold", "money"]
+	},
+
+	{
+		"name": "GFX_goal_German_Staff",
+		"image": "assets/images/goals/GFX_goal_German_Staff.png",
+		"tags": ["Kaiserreich", "KR", "germany", "soldiers"]
+	},
+
+	{
+		"name": "GFX_goal_KTG_Belgian_Engineers",
+		"image": "assets/images/goals/GFX_goal_KTG_Belgian_Engineers.png",
+		"tags": ["Kaiserreich", "KR", "production"]
+	},
+
+	{
+		"name": "GFX_goal_KTG_Belgian_Officers2",
+		"image": "assets/images/goals/GFX_goal_KTG_Belgian_Officers2.png",
+		"tags": ["Kaiserreich", "KR", "soldier"]
+	},
+
+	{
+		"name": "GFX_goal_KTG_Bookstack",
+		"image": "assets/images/goals/GFX_goal_KTG_Bookstack.png",
+		"tags": ["Kaiserreich", "KR", "book"]
+	},
+
+	{
+		"name": "GFX_goal_KTG_Certificate_Focus",
+		"image": "assets/images/goals/GFX_goal_KTG_Certificate_Focus.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_KTG_Colonial_Economy_Focus",
+		"image": "assets/images/goals/GFX_goal_KTG_Colonial_Economy_Focus.png",
+		"tags": ["Kaiserreich", "KR", "gold", "money"]
+	},
+
+	{
+		"name": "GFX_goal_KTG_Colonial_Trinity2",
+		"image": "assets/images/goals/GFX_goal_KTG_Colonial_Trinity2.png",
+		"tags": ["Kaiserreich", "KR", "gold", "money", "fist", "religion"]
+	},
+
+	{
+		"name": "GFX_goal_KTG_Congolese_Officers2",
+		"image": "assets/images/goals/GFX_goal_KTG_Congolese_Officers2.png",
+		"tags": ["Kaiserreich", "KR", "soldier"]
+	},
+
+	{
+		"name": "GFX_goal_KTG_Educate_natives",
+		"image": "assets/images/goals/GFX_goal_KTG_Educate_natives.png",
+		"tags": ["Kaiserreich", "KR", "production"]
+	},
+
+	{
+		"name": "GFX_goal_KTG_Elections",
+		"image": "assets/images/goals/GFX_goal_KTG_Elections.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_KTG_Ivory_Hunting",
+		"image": "assets/images/goals/GFX_goal_KTG_Ivory_Hunting.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_KTG_Jungle_Diamond_Mine",
+		"image": "assets/images/goals/GFX_goal_KTG_Jungle_Diamond_Mine.png",
+		"tags": ["Kaiserreich", "KR", "resources", "diamond"]
+	},
+
+	{
+		"name": "GFX_goal_KTG_Jungle_Gold_Mine",
+		"image": "assets/images/goals/GFX_goal_KTG_Jungle_Gold_Mine.png",
+		"tags": ["Kaiserreich", "KR", "resources", "gold"]
+	},
+
+	{
+		"name": "GFX_goal_KTG_Jungle_Railroad",
+		"image": "assets/images/goals/GFX_goal_KTG_Jungle_Railroad.png",
+		"tags": ["Kaiserreich", "KR", "production"]
+	},
+
+	{
+		"name": "GFX_goal_KTG_Reinstate_Chefferie",
+		"image": "assets/images/goals/GFX_goal_KTG_Reinstate_Chefferie.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_KTG_Rubber_Farming",
+		"image": "assets/images/goals/GFX_goal_KTG_Rubber_Farming.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_KTG_Yeke_Trade",
+		"image": "assets/images/goals/GFX_goal_KTG_Yeke_Trade.png",
+		"tags": ["Kaiserreich", "KR", "trade"]
+	},
+
+	{
+		"name": "GFX_goal_refugee_management",
+		"image": "assets/images/goals/GFX_goal_refugee_management.png",
+		"tags": ["Kaiserreich", "KR"]
+	},
+
+	{
+		"name": "GFX_goal_socialist_infrastructure",
+		"image": "assets/images/goals/GFX_goal_socialist_infrastructure.png",
+		"tags": ["Kaiserreich", "KR", "production", "transportation"]
+	},
+
+
 ]
 
 export default goals;
