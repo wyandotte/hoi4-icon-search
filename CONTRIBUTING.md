@@ -14,10 +14,13 @@ An item has the following form:
 		"tags": ["Kaiserreich", "KR", "production", "transportation"]
 	},
 ```
+- **name**: The in-game name used in a focus tree or idea file, this name will be copied when a user clicks on the icon.
+- **image**: Path to the PNG image file. Make sure it is correct.
+- **tags**: Each tag needs to be enclosed in quotes and separated by comma's.
 
-Make sure they have a comma after the last bracket, and that the image path is correct. Each tag needs to be enclosed in quotes and separated by comma's.
+Make sure that there is a comma after each bracket.
 
-3. These changes are not immediately visible on the live site, the code needs to be compiled manually.
+3. These changes are not immediately visible on the live site, the code needs to be compiled manually. Creating a PR will automatically notify the collaborators.
 
 ## Building the project
 
