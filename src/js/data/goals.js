@@ -1854,6 +1854,108 @@ const goals = [
 		"tags": ["Kaiserreich", "KR", "production", "transportation"]
 	},
 
+	{
+		"name": "GFX_goal_army_guy",
+		"image": "assets/images/goals/goal_army_guy.png",
+		"tags": ["Kaiserreich", "KR", "wtt", "soldier", "gun"]
+	},
+
+	{
+		"name": "GFX_goal_army_guy_2",
+		"image": "assets/images/goals/goal_army_guy_2.png",
+		"tags": ["Kaiserreich", "KR", "wtt", "soldier", "gun"]
+	},
+
+	{
+		"name": "GFX_goal_big_news",
+		"image": "assets/images/goals/goal_big_news.png",
+		"tags": ["Kaiserreich", "KR", "wtt", "news", "paper"]
+	},
+
+	{
+		"name": "GFX_goal_brain",
+		"image": "assets/images/goals/goal_brain.png",
+		"tags": ["Kaiserreich", "KR", "wtt", "research"]
+	},
+
+	{
+		"name": "GFX_goal_break_rifle",
+		"image": "assets/images/goals/goal_break_rifle.png",
+		"tags": ["Kaiserreich", "KR", "wtt", "gun"]
+	},
+
+	{
+		"name": "GFX_goal_checkmate",
+		"image": "assets/images/goals/goal_checkmate.png",
+		"tags": ["Kaiserreich", "KR", "wtt"]
+	},
+
+	{
+		"name": "GFX_goal_china_deal",
+		"image": "assets/images/goals/goal_china_deal.png",
+		"tags": ["Kaiserreich", "KR", "wtt", "china"]
+	},
+
+	{
+		"name": "GFX_goal_conspiracy",
+		"image": "assets/images/goals/goal_conspiracy.png",
+		"tags": ["Kaiserreich", "KR", "wtt"]
+	},
+
+	{
+		"name": "GFX_goal_double_research",
+		"image": "assets/images/goals/goal_double_research.png",
+		"tags": ["Kaiserreich", "KR", "wtt", "research"]
+	},
+
+	{
+		"name": "GFX_goal_factory_complex",
+		"image": "assets/images/goals/goal_factory_complex.png",
+		"tags": ["Kaiserreich", "KR", "wtt", "factory", "production"]
+	},
+
+	{
+		"name": "GFX_goal_flames_of_rebellion",
+		"image": "assets/images/goals/goal_flames_of_rebellion.png",
+		"tags": ["Kaiserreich", "KR", "wtt", "fist"]
+	},
+
+	{
+		"name": "GFX_goal_gold_up",
+		"image": "assets/images/goals/goal_gold_up.png",
+		"tags": ["Kaiserreich", "KR", "wtt", "gold", "money"]
+	},
+
+	{
+		"name": "GFX_goal_great_science",
+		"image": "assets/images/goals/goal_great_science.png",
+		"tags": ["Kaiserreich", "KR", "wtt", "research"]
+	},
+
+	{
+		"name": "GFX_goal_navy_decision",
+		"image": "assets/images/goals/goal_navy_decision.png",
+		"tags": ["Kaiserreich", "KR", "wtt", "navy", "dockyard"]
+	},
+
+	{
+		"name": "GFX_goal_opium",
+		"image": "assets/images/goals/goal_opium.png",
+		"tags": ["Kaiserreich", "KR", "wtt", "opium"]
+	},
+
+	{
+		"name": "GFX_goal_purge_opposition",
+		"image": "assets/images/goals/goal_purge_opposition.png",
+		"tags": ["Kaiserreich", "KR", "wtt", "sword"]
+	},
+
+	{
+		"name": "GFX_goal_revolution_tools",
+		"image": "assets/images/goals/goal_revolution_tools.png",
+		"tags": ["Kaiserreich", "KR", "wtt", "communist", "syndicalist"]
+	}
+
 
 ]
 
