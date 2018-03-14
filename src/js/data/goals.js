@@ -2178,7 +2178,366 @@ const goals = [
 		"image": "assets/images/goals/goal_HOL_sustain_neutrality.png",
 		"tags": ["Kaiserreich", "KR"]
 	},
-
+	
+	{
+		"name": "GFX_focus_attack_switzerland",
+		"image": "assets/images/goals/focus_attack_switzerland.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_chi_army_reform",
+		"image": "assets/images/goals/focus_chi_army_reform.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_chi_british_cooperation",
+		"image": "assets/images/goals/focus_chi_british_cooperation.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_chi_collaboration_with_the_japanese",
+		"image": "assets/images/goals/focus_chi_collaboration_with_the_japanese.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_chi_cooperation_with_the_communists",
+		"image": "assets/images/goals/focus_chi_cooperation_with_the_communists.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_chi_cooperation_with_the_nationalists",
+		"image": "assets/images/goals/focus_chi_cooperation_with_the_nationalists.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_chi_examination_yuan",
+		"image": "assets/images/goals/focus_chi_examination_yuan.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_chi_flying_tigers",
+		"image": "assets/images/goals/focus_chi_flying_tigers.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_chi_legislative_yuan",
+		"image": "assets/images/goals/focus_chi_legislative_yuan.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_chi_mission_to_germany",
+		"image": "assets/images/goals/focus_chi_mission_to_germany.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_chi_mission_to_the_soviet_union",
+		"image": "assets/images/goals/focus_chi_mission_to_the_soviet_union.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_chi_mission_to_the_us",
+		"image": "assets/images/goals/focus_chi_mission_to_the_us.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_chi_one_china_policy",
+		"image": "assets/images/goals/focus_chi_one_china_policy.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_chi_proclaim_rival_government",
+		"image": "assets/images/goals/focus_chi_proclaim_rival_government.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_chi_reach_out_to_france",
+		"image": "assets/images/goals/focus_chi_reach_out_to_france.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_chi_united_front",
+		"image": "assets/images/goals/focus_chi_united_front.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_chi_whampoa_military_academy",
+		"image": "assets/images/goals/focus_chi_whampoa_military_academy.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_generic_aluminum",
+		"image": "assets/images/goals/focus_generic_aluminum.png",
+		"tags": ["vanilla", "wtt", "resource", "production", "aluminum"]
+	},
+	
+	{
+		"name": "GFX_focus_generic_army_tanks2",
+		"image": "assets/images/goals/focus_generic_army_tanks2.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_generic_china1",
+		"image": "assets/images/goals/focus_generic_china1.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_generic_combined_arms",
+		"image": "assets/images/goals/focus_generic_combined_arms.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_generic_cruiser2",
+		"image": "assets/images/goals/focus_generic_cruiser2.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_generic_destroyer",
+		"image": "assets/images/goals/focus_generic_destroyer.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_generic_industry_1",
+		"image": "assets/images/goals/focus_generic_industry_1.png",
+		"tags": ["vanilla", "wtt", "industry", "factory", "production"]
+	},
+	
+	{
+		"name": "GFX_focus_generic_industry_2",
+		"image": "assets/images/goals/focus_generic_industry_2.png",
+		"tags": ["vanilla", "wtt", "industry", "factory", "production"]
+	},
+	
+	{
+		"name": "GFX_focus_generic_industry_3",
+		"image": "assets/images/goals/focus_generic_industry_3.png",
+		"tags": ["vanilla", "wtt", "industry", "factory", "production"]
+	},
+	
+	{
+		"name": "GFX_focus_generic_military_academy",
+		"image": "assets/images/goals/focus_generic_military_academy.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_generic_navy_battleship2",
+		"image": "assets/images/goals/focus_generic_navy_battleship2.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_generic_provoke_border_clashes",
+		"image": "assets/images/goals/focus_generic_provoke_border_clashes.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_generic_rubber",
+		"image": "assets/images/goals/focus_generic_rubber.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_generic_steel",
+		"image": "assets/images/goals/focus_generic_steel.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_generic_tank_production",
+		"image": "assets/images/goals/focus_generic_tank_production.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_generic_treaty",
+		"image": "assets/images/goals/focus_generic_treaty.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_generic_tungsten",
+		"image": "assets/images/goals/focus_generic_tungsten.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_ger_accept_british_naval_dominance",
+		"image": "assets/images/goals/focus_ger_accept_british_naval_dominance.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_ger_assassinate_mussolini",
+		"image": "assets/images/goals/focus_ger_assassinate_mussolini.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_ger_break_anglo_french_colonial_hegemony",
+		"image": "assets/images/goals/focus_ger_break_anglo_french_colonial_hegemony.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_ger_bulwark_against_bolshevism",
+		"image": "assets/images/goals/focus_ger_bulwark_against_bolshevism.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_ger_great_red_menace",
+		"image": "assets/images/goals/focus_ger_great_red_menace.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_ger_oppose_hitler",
+		"image": "assets/images/goals/focus_ger_oppose_hitler.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_ger_reichskommisariats",
+		"image": "assets/images/goals/focus_ger_reichskommisariats.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_ger_return_of_the_kaiser",
+		"image": "assets/images/goals/focus_ger_return_of_the_kaiser.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_ger_revive_kaiserreich",
+		"image": "assets/images/goals/focus_ger_revive_kaiserreich.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_ger_strike_at_the_source",
+		"image": "assets/images/goals/focus_ger_strike_at_the_source.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_jap_cast_the_die",
+		"image": "assets/images/goals/focus_jap_cast_the_die.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_jap_manchurian_project",
+		"image": "assets/images/goals/focus_jap_manchurian_project.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_jap_pacific_guardian",
+		"image": "assets/images/goals/focus_jap_pacific_guardian.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_jap_showa_restoration",
+		"image": "assets/images/goals/focus_jap_showa_restoration.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_jap_spiritual_mobilization",
+		"image": "assets/images/goals/focus_jap_spiritual_mobilization.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_jap_strike_south",
+		"image": "assets/images/goals/focus_jap_strike_south.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_jap_zaibatsu",
+		"image": "assets/images/goals/focus_jap_zaibatsu.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_jap_zero",
+		"image": "assets/images/goals/focus_jap_zero.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_man_claim_the_mandate_of_heaven",
+		"image": "assets/images/goals/focus_man_claim_the_mandate_of_heaven.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_prc_agrarian_socialism",
+		"image": "assets/images/goals/focus_prc_agrarian_socialism.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_prc_infiltration",
+		"image": "assets/images/goals/focus_prc_infiltration.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_prc_maoism",
+		"image": "assets/images/goals/focus_prc_maoism.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_prc_proclaim_the_peoples_republic",
+		"image": "assets/images/goals/focus_prc_proclaim_the_peoples_republic.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_prc_remove_chiang_kai_shek",
+		"image": "assets/images/goals/focus_prc_remove_chiang_kai_shek.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_prc_social_democracy",
+		"image": "assets/images/goals/focus_prc_social_democracy.png",
+		"tags": ["vanilla", "wtt"]
+	},
+	
+	{
+		"name": "GFX_focus_research2",
+		"image": "assets/images/goals/focus_research2.png",
+		"tags": ["vanilla", "wtt", "research"]
+	},
 
 
 ]

@@ -1048,6 +1048,414 @@ const ideas = [
     "tags": ["Kaiserreich", "KR", "money"]
   },
 
+  {
+    "name": "chi_army_corruption",
+    "image": "assets/images/ideas/idea_chi_army_corruption.png",
+    "tags": ["vanilla", "wtt", "soldier"]
+  },
+
+  {
+    "name": "chi_army_corruption2",
+    "image": "assets/images/ideas/idea_chi_army_corruption2.png",
+    "tags": ["vanilla", "wtt", "soldier"]
+  },
+
+  {
+    "name": "chi_army_corruption3",
+    "image": "assets/images/ideas/idea_chi_army_corruption3.png",
+    "tags": ["vanilla", "wtt", "soldier"]
+  },
+
+  {
+    "name": "chi_chinese_support",
+    "image": "assets/images/ideas/idea_chi_chinese_support.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "chi_chinese_unity",
+    "image": "assets/images/ideas/idea_chi_chinese_unity.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "chi_forced_conscription",
+    "image": "assets/images/ideas/idea_chi_forced_conscription.png",
+    "tags": ["vanilla", "wtt", "soldier"]
+  },
+
+  {
+    "name": "chi_hyper_inflation",
+    "image": "assets/images/ideas/idea_chi_hyper_inflation.png",
+    "tags": ["vanilla", "wtt", "gold", "money"]
+  },
+
+  {
+    "name": "chi_hyper_inflation2",
+    "image": "assets/images/ideas/idea_chi_hyper_inflation2.png",
+    "tags": ["vanilla", "wtt", "gold", "money"]
+  },
+
+  {
+    "name": "chi_hyper_inflation3",
+    "image": "assets/images/ideas/idea_chi_hyper_inflation3.png",
+    "tags": ["vanilla", "wtt", "gold", "money"]
+  },
+
+  {
+    "name": "chi_hyper_inflation4",
+    "image": "assets/images/ideas/idea_chi_hyper_inflation4.png",
+    "tags": ["vanilla", "wtt", "gold", "money"]
+  },
+
+  {
+    "name": "chi_hyper_inflation5",
+    "image": "assets/images/ideas/idea_chi_hyper_inflation5.png",
+    "tags": ["vanilla", "wtt", "gold", "money"]
+  },
+
+  {
+    "name": "chi_incompetent_officers",
+    "image": "assets/images/ideas/idea_chi_incompetent_officers.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "chi_war_of_resistance",
+    "image": "assets/images/ideas/idea_chi_war_of_resistance.png",
+    "tags": ["vanilla", "wtt", "fist"]
+  },
+
+  {
+    "name": "chi_war_of_resistance2",
+    "image": "assets/images/ideas/idea_chi_war_of_resistance2.png",
+    "tags": ["vanilla", "wtt", "fist"]
+  },
+
+  {
+    "name": "chi_war_of_resistance3",
+    "image": "assets/images/ideas/idea_chi_war_of_resistance3.png",
+    "tags": ["vanilla", "wtt", "fist"]
+  },
+
+  {
+    "name": "chi_wargaming_division",
+    "image": "assets/images/ideas/idea_chi_wargaming_division.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "chi_warlord_integration",
+    "image": "assets/images/ideas/idea_chi_warlord_integration.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "chi_warlord_integration2",
+    "image": "assets/images/ideas/idea_chi_warlord_integration2.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "chi_warlord_integration3",
+    "image": "assets/images/ideas/idea_chi_warlord_integration3.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "chi_warlord_integration4",
+    "image": "assets/images/ideas/idea_chi_warlord_integration4.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "chi_warlord_integration5",
+    "image": "assets/images/ideas/idea_chi_warlord_integration5.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "chi_whampoa_military_academy",
+    "image": "assets/images/ideas/idea_chi_whampoa_military_academy.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "general_staff",
+    "image": "assets/images/ideas/idea_general_staff.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "generic_army_problems",
+    "image": "assets/images/ideas/idea_generic_army_problems.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "generic_build_infrastructure",
+    "image": "assets/images/ideas/idea_generic_build_infrastructure.png",
+    "tags": ["vanilla", "wtt", "infrastructure"]
+  },
+
+  {
+    "name": "generic_navy_carrier_bonus",
+    "image": "assets/images/ideas/idea_generic_navy_carrier_bonus.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "generic_neutrality_drift_bonus",
+    "image": "assets/images/ideas/idea_generic_neutrality_drift_bonus.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "generic_oppression",
+    "image": "assets/images/ideas/idea_generic_oppression.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "generic_political_support",
+    "image": "assets/images/ideas/idea_generic_political_support.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "generic_purge",
+    "image": "assets/images/ideas/idea_generic_purge.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "generic_the_london_naval_treaty",
+    "image": "assets/images/ideas/idea_generic_the_london_naval_treaty.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "ger_bulwark_against_bolshevism",
+    "image": "assets/images/ideas/idea_ger_bulwark_against_bolshevism.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "ger_mefo_bills",
+    "image": "assets/images/ideas/idea_ger_mefo_bills.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "ger_mefo_bills_payment",
+    "image": "assets/images/ideas/idea_ger_mefo_bills_payment.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "ger_rebuild_the_nation",
+    "image": "assets/images/ideas/idea_ger_rebuild_the_nation.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "ger_revive_the_kaiserreich",
+    "image": "assets/images/ideas/idea_ger_revive_the_kaiserreich.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "ger_the_great_red_menace",
+    "image": "assets/images/ideas/idea_ger_the_great_red_menace.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "jap_duplicate_research",
+    "image": "assets/images/ideas/idea_jap_duplicate_research.png",
+    "tags": ["vanilla", "wtt", "research"]
+  },
+
+  {
+    "name": "jap_ichi_go",
+    "image": "assets/images/ideas/idea_jap_ichi_go.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "jap_interservice_rivalry_army_dominant",
+    "image": "assets/images/ideas/idea_jap_interservice_rivalry_army_dominant.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "jap_interservice_rivalry_army_strengthened",
+    "image": "assets/images/ideas/idea_jap_interservice_rivalry_army_strengthened.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "jap_interservice_rivalry_balanced",
+    "image": "assets/images/ideas/idea_jap_interservice_rivalry_balanced.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "jap_interservice_rivalry_navy_dominant",
+    "image": "assets/images/ideas/idea_jap_interservice_rivalry_navy_dominant.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "jap_interservice_rivalry_navy_strengthened",
+    "image": "assets/images/ideas/idea_jap_interservice_rivalry_navy_strengthened.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "jap_intervene_in_china",
+    "image": "assets/images/ideas/idea_jap_intervene_in_china.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "jap_militarism_showa",
+    "image": "assets/images/ideas/idea_jap_militarism_showa.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "jap_supremacy_of_technology",
+    "image": "assets/images/ideas/idea_jap_supremacy_of_technology.png",
+    "tags": ["vanilla", "wtt", "research"]
+  },
+
+  {
+    "name": "jap_supremacy_of_will",
+    "image": "assets/images/ideas/idea_jap_supremacy_of_will.png",
+    "tags": ["vanilla", "wtt", "research"]
+  },
+
+  {
+    "name": "jap_the_unthinkable_option",
+    "image": "assets/images/ideas/idea_jap_the_unthinkable_option.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "jap_zaibatsu",
+    "image": "assets/images/ideas/idea_jap_zaibatsu.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "jap_zaibatsu_ally",
+    "image": "assets/images/ideas/idea_jap_zaibatsu_ally.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "jap_zaibatsu_control",
+    "image": "assets/images/ideas/idea_jap_zaibatsu_control.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "man_five_year_plan_air",
+    "image": "assets/images/ideas/idea_man_five_year_plan_air.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "man_five_year_plan_industry",
+    "image": "assets/images/ideas/idea_man_five_year_plan_industry.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "man_five_year_plan_tank",
+    "image": "assets/images/ideas/idea_man_five_year_plan_tank.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "man_low_legitimacy",
+    "image": "assets/images/ideas/idea_man_low_legitimacy.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "man_low_legitimacy2",
+    "image": "assets/images/ideas/idea_man_low_legitimacy2.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "man_low_legitimacy3",
+    "image": "assets/images/ideas/idea_man_low_legitimacy3.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "man_low_legitimacy4",
+    "image": "assets/images/ideas/idea_man_low_legitimacy4.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "man_low_legitimacy5",
+    "image": "assets/images/ideas/idea_man_low_legitimacy5.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "man_militarism",
+    "image": "assets/images/ideas/idea_man_militarism.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "prc_low_popular_support",
+    "image": "assets/images/ideas/idea_prc_low_popular_support.png",
+    "tags": ["vanilla", "wtt", "soldier"]
+  },
+
+  {
+    "name": "prc_low_popular_support2",
+    "image": "assets/images/ideas/idea_prc_low_popular_support2.png",
+    "tags": ["vanilla", "wtt", "soldier"]
+  },
+
+  {
+    "name": "prc_low_popular_support3",
+    "image": "assets/images/ideas/idea_prc_low_popular_support3.png",
+    "tags": ["vanilla", "wtt", "soldier"]
+  },
+
+  {
+    "name": "prc_permit_opium_trade",
+    "image": "assets/images/ideas/idea_prc_permit_opium_trade.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "prc_the_long_march",
+    "image": "assets/images/ideas/idea_prc_the_long_march.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "prc_the_long_march2",
+    "image": "assets/images/ideas/idea_prc_the_long_march2.png",
+    "tags": ["vanilla", "wtt"]
+  },
+
+  {
+    "name": "send_attache",
+    "image": "assets/images/ideas/idea_send_attache.png",
+    "tags": ["vanilla", "wtt"]
+  }
+
 ]
 
 export default ideas;
