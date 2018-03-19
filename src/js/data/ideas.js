@@ -593,25 +593,25 @@ const ideas = [
   },
 
   {
-    "name": "idea_generic_army",
+    "name": "generic_army",
     "image": "assets/images/ideas/idea_generic_army.png",
     "tags": ["Kaiserreich", "KR"],
   },
 
   {
-    "name": "idea_generic_navy",
+    "name": "generic_navy",
     "image": "assets/images/ideas/idea_generic_navy.png",
     "tags": ["Kaiserreich", "KR", "anchor", "ship", "navy"],
   },
 
   {
-    "name": "idea_generic_trade",
+    "name": "generic_trade",
     "image": "assets/images/ideas/idea_generic_trade.png",
     "tags": ["Kaiserreich", "KR", "trade"],
   },
 
   {
-    "name": "idea_guns_shield",
+    "name": "guns_shield",
     "image": "assets/images/ideas/idea_guns_shield.png",
     "tags": ["Kaiserreich", "KR", "guns", "shield"],
   },
@@ -647,7 +647,7 @@ const ideas = [
   },
 
   {
-    "name": "idea_generic_airforce",
+    "name": "generic_airforce",
     "image": "assets/images/ideas/idea_generic_airforce.png",
     "tags": ["Kaiserreich", "KR", "air"],
   },
