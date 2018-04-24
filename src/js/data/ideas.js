@@ -1454,7 +1454,139 @@ const ideas = [
     "name": "send_attache",
     "image": "assets/images/ideas/idea_send_attache.png",
     "tags": ["vanilla", "wtt"]
-  }
+  },
+
+  {
+    "name": "NOR_uob_support_idea",
+    "image": "assets/images/ideas/NOR_syndicalist_support.png",
+    "tags": ["Kaiserreich", "KR", "syndicalist", "communist"]
+  },
+
+  {
+    "name": "generic_radical_socialist_revolution",
+    "image": "assets/images/ideas/idea_generic_radical_socialist_revolution.png",
+    "tags": ["Kaiserreich", "KR", "syndicalist", "communist", "radical socialist"]
+  },
+
+  {
+    "name": "generic_totalist_revolution",
+    "image": "assets/images/ideas/idea_generic_totalist_revolution.png",
+    "tags": ["Kaiserreich", "KR", "syndicalist", "communist", "totalist"]
+  },
+
+  {
+    "name": "generic_syndicalism_drift_bonus",
+    "image": "assets/images/ideas/idea_generic_syndicalism_drift_bonus.png",
+    "tags": ["Kaiserreich", "KR", "syndicalist", "communist"]
+  },
+
+  {
+    "name": "generic_syndicalist_fort",
+    "image": "assets/images/ideas/idea_generic_syndicalist_fort.png",
+    "tags": ["Kaiserreich", "KR", "syndicalist", "communist"]
+  },
+
+  {
+    "name": "generic_syndicalist_manpower",
+    "image": "assets/images/ideas/idea_generic_syndicalist_manpower.png",
+    "tags": ["Kaiserreich", "KR", "syndicalist", "communist"]
+  },
+
+  {
+    "name": "generic_syndicalist_medal",
+    "image": "assets/images/ideas/idea_generic_syndicalist_medal.png",
+    "tags": ["Kaiserreich", "KR", "syndicalist", "communist"]
+  },
+
+  {
+    "name": "generic_syndicalist_monarchy",
+    "image": "assets/images/ideas/idea_generic_syndicalist_monarchy.png",
+    "tags": ["Kaiserreich", "KR", "syndicalist", "communist"]
+  },
+
+  {
+    "name": "NOR_secret_police_idea_1",
+    "image": "assets/images/ideas/NOR_secret_police_spirit.png",
+    "tags": ["Kaiserreich", "KR", "syndicalist", "communist"]
+  },
+
+  {
+    "name": "No_Oil",
+    "image": "assets/images/ideas/No_Oil.png",
+    "tags": ["Kaiserreich", "KR", "production", "resource"]
+  },
+
+  {
+    "name": "Oil",
+    "image": "assets/images/ideas/Oil.png",
+    "tags": ["Kaiserreich", "KR", "production", "resource"]
+  },
+
+  {
+    "name": "OTT_gendarmerie",
+    "image": "assets/images/ideas/OTT_gendarmerie.png",
+    "tags": ["Kaiserreich", "KR", "hat"]
+  },
+
+  {
+    "name": "Recruitment_Crisis",
+    "image": "assets/images/ideas/Recruitment_Crisis.png",
+    "tags": ["Kaiserreich", "KR", "soldier", "flames"]
+  },
+
+  {
+    "name": "UK_military_loyal_idea",
+    "image": "assets/images/ideas/UK_military_loyal_idea.png",
+    "tags": ["Kaiserreich", "KR", "soldiers"]
+  },
+
+  {
+    "name": "TUS_syndie_economy",
+    "image": "assets/images/ideas/TUS_recovering_syndies_economy.png",
+    "tags": ["Kaiserreich", "KR"]
+  },
+
+  {
+    "name": "TUS_syndie_government",
+    "image": "assets/images/ideas/TUS_syndie_ministers.png",
+    "tags": ["Kaiserreich", "KR", "crown"]
+  },
+
+  {
+    "name": "UoB_militia_idea",
+    "image": "assets/images/ideas/UoB_militia_idea.png",
+    "tags": ["Kaiserreich", "KR"]
+  },
+
+  {
+    "name": "NOR_labour_conflicts",
+    "image": "assets/images/ideas/NOR_general_strike.png",
+    "tags": ["Kaiserreich", "KR", "strike"]
+  },
+
+  {
+    "name": "syndicalist_industry_idea",
+    "image": "assets/images/ideas/NOR_planned_economy.png",
+    "tags": ["Kaiserreich", "KR", "production", "factory"]
+  },
+
+  {
+    "name": "LEC_police",
+    "image": "assets/images/ideas/LEC_police.png",
+    "tags": ["Kaiserreich", "KR"]
+  },
+
+  {
+    "name": "denbts",
+    "image": "assets/images/ideas/denbts.png",
+    "tags": ["Kaiserreich", "KR"]
+  },
+
+  {
+    "name": "death_men",
+    "image": "assets/images/ideas/death_men.png",
+    "tags": ["Kaiserreich", "KR", "soldier", "skull"]
+  },
 
 ]
 
