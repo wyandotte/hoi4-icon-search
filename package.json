@@ -7,7 +7,9 @@
     "production": "cross-env NODE_ENV=production webpack --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
   },
   "devDependencies": {
+    "axios": "^0.18.0",
     "clipboard": "^1.5.16",
+    "js-yaml": "^3.11.0",
     "laravel-mix": "^0.4.0",
     "vue": "2.1.8"
   }

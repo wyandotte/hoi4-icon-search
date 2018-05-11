@@ -11,22 +11,21 @@
     </div>
     <div class="Icons Icons--goals">
       <span class="Icons__header">National focus ({{ filteredGoals.length }})</span>
-      <icon :name="goal.name" :image="goal.image" v-for="goal in filteredGoals"></icon>
+      <icon :name="goal.name" :image="goal.image" type="goal" v-for="goal in filteredGoals" :key="goal.name"></icon>
     </div>
     <div class="Icons Icons--ideas">
       <span class="Icons__header">Ideas ({{ filteredIdeas.length }})</span>
-      <icon :name="idea.name" :image="idea.image" :small="true" v-for="idea in filteredIdeas"></icon>
+      <icon :name="idea.name" :image="idea.image" type="idea" v-for="idea in filteredIdeas" :key="idea.name"></icon>
     </div>
   </div>
 </template>
 
 <script>
+  import axios from 'axios';
   import Clipboard from 'clipboard';
+  import yaml from 'js-yaml';
 
   import Icon from './Icon';
-
-  import goals from '../data/goals';
-  import ideas from '../data/ideas';
 
   export default {
     components: { Icon },
@@ -43,10 +42,22 @@
       return {
         searchQuery: '',
 
-        goals,
+        baseUrl: 'https://raw.githubusercontent.com/kr4/icons/master',
 
-        ideas
+        goals: [],
+
+        ideas: []
       }
+    },
+
+    mounted() {
+      axios.get(this.baseUrl + '/data/goals.yaml').then(({ data }) => {
+        this.goals = yaml.safeLoad(data).goals;
+      });
+
+      axios.get(this.baseUrl + '/data/ideas.yaml').then(({ data }) => {
+        this.ideas = yaml.safeLoad(data).ideas;
+      });
     },
 
     computed: {

@@ -1,8 +1,6 @@
 # hoi4-icon-search
 
-A simple Vue application which lists the icons of [Hearts of Iron IV](http://www.heartsofirongame.com/) to easily find the goal or idea GFX you're looking for.
-
-All rights of "vanilla" icons belong to Paradox Development Studio or Paradox Interactive. All "Kaiserreich" icons are created by the team of the [Kaiserreich mod](http://steamcommunity.com/sharedfiles/filedetails/?id=809903394).
+A simple Vue application which lists the icons of [Hearts of Iron IV](http://www.heartsofirongame.com/) and associated mods to easily find the goal or idea GFX you're looking for.
 
 ## Building the project
 
