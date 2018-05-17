@@ -8,9 +8,12 @@
   },
   "devDependencies": {
     "axios": "^0.18.0",
+    "browser-sync": "^2.24.4",
+    "browser-sync-webpack-plugin": "^2.0.1",
     "clipboard": "^1.5.16",
     "js-yaml": "^3.11.0",
-    "laravel-mix": "^0.4.0",
-    "vue": "2.1.8"
+    "laravel-mix": "^2.1.1",
+    "tailwindcss": "^0.5.3",
+    "vue": "^2.5.16"
   }
 }

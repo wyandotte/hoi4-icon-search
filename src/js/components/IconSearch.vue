@@ -1,21 +1,23 @@
 <template>
   <div>
-    <div class="Search">
-        <input type="text" v-model="searchQuery" placeholder="E.g. crown, navy, resource" class="Search__search-bar">
+    <div class="mb-6">
+        <input type="text" v-model="searchQuery" placeholder="E.g. crown, navy, resource" class="w-full bg-grey-lighter text-grey-darker rounded p-4 mb-6">
 
-        <div class="Search__filters">
-          Show icons for:
-          <a href="#" @click="toggleGoalsDisplay" class="Search__filter national-focus Search__filter--selected">National focus</a>
-          <a href="#" @click="toggleIdeasDisplay" class="Search__filter ideas Search__filter--selected">Ideas</a>
+        <div class="border-2 border-indigo rounded inline-block">
+          <a href="#" @click.prevent="toggleGoalsDisplay" id="goals-toggle" class="inline-block no-underline text-indigo-darker border-r border-indigo p-4 text-center bg-indigo-lightest">National Focus</a><a href="#" @click.prevent="toggleIdeasDisplay" id="ideas-toggle" class="inline-block no-underline text-indigo-darker py-4 px-8 text-center bg-indigo-lightest">Ideas</a>
         </div>
     </div>
-    <div class="Icons Icons--goals">
-      <span class="Icons__header">National focus ({{ filteredGoals.length }})</span>
-      <icon :name="goal.name" :image="goal.image" type="goal" v-for="goal in filteredGoals" :key="goal.name"></icon>
+    <div class="mb-4" id="goals">
+      <span class="uppercase tracking-wide text-grey-dark">National focus ({{ filteredGoals.length }})</span>
+      <div class="flex flex-wrap justify-left mt-3">
+        <icon :name="goal.name" :image="goal.image" type="goal" v-for="goal in filteredGoals" :key="goal.name"></icon>
+      </div>
     </div>
-    <div class="Icons Icons--ideas">
-      <span class="Icons__header">Ideas ({{ filteredIdeas.length }})</span>
-      <icon :name="idea.name" :image="idea.image" type="idea" v-for="idea in filteredIdeas" :key="idea.name"></icon>
+    <div class="mb-4" id="ideas">
+      <span class="uppercase tracking-wide text-grey-dark">Ideas ({{ filteredIdeas.length }})</span>
+      <div class="flex flex-wrap justify-left mt-3">
+        <icon :name="idea.name" :image="idea.image" type="idea" v-for="idea in filteredIdeas" :key="idea.name"></icon>
+      </div>
     </div>
   </div>
 </template>
@@ -29,14 +31,6 @@
 
   export default {
     components: { Icon },
-
-    mounted() {
-      let clipboard = new Clipboard('.Icon');
-
-      clipboard.on('success', function(e) {
-        toastr.success('Name copied to clipboard.', null, { timeOut: 800 })
-      });
-    },
 
     data() {
       return {
@@ -57,6 +51,14 @@
 
       axios.get(this.baseUrl + '/data/ideas.yaml').then(({ data }) => {
         this.ideas = yaml.safeLoad(data).ideas;
+      });
+
+      let clipboard = new Clipboard('.icon');
+
+      window.clipboard = Clipboard;
+
+      clipboard.on('success', function(e) {
+        toastr.success('Name copied to clipboard.', null, { timeOut: 800 })
       });
     },
 
@@ -80,18 +82,14 @@
         })
       },
 
-      toggleGoalsDisplay(e) {
-        e.preventDefault();
-
-        document.querySelector('.Search__filter.national-focus').classList.toggle('Search__filter--selected');
-        document.querySelector('.Icons--goals').classList.toggle('Icons--hide');
+      toggleGoalsDisplay() {
+        document.querySelector('#goals-toggle').classList.toggle('bg-indigo-lightest');
+        document.querySelector('#goals').classList.toggle('hidden');
       },
 
-      toggleIdeasDisplay(e) {
-        e.preventDefault();
-
-        document.querySelector('.Search__filter.ideas').classList.toggle('Search__filter--selected');
-        document.querySelector('.Icons--ideas').classList.toggle('Icons--hide');
+      toggleIdeasDisplay() {
+        document.querySelector('#ideas-toggle').classList.toggle('bg-indigo-lightest');
+        document.querySelector('#ideas').classList.toggle('hidden');
       }
     }
   }
